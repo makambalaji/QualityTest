@@ -15,3 +15,4 @@ To make the confgitaution and maintenance of Automation testing with protractor 
 1. Create the functions related to all web elements
 2. Waits related to locators should be handled with in utilities
 
+Checking Sub modules concept
